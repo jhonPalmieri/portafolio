@@ -9,15 +9,15 @@
 
     "home": {
         "home_text-1": "Hola! Soy",
-        "home_text-3": "Desarrolladora web Front-End",
-        "parrafo-info": "Estudiante de Estadistica y programación enfocada al Desarrollo Web Frontend. Como persona amante a los diseños intuitivos y estéticamente agradables busco crear proyectos que brinden la mejor experiencia para el usuario.",
+        "home_text-3": "Desarrollador web Front-End",
+        "parrafo-info": "estudiante de programación enfocado al Desarrollo Web Frontend. Como persona amante a los diseños intuitivos y estéticamente agradables busco crear proyectos que brinden la mejor experiencia para el usuario.",
         "cv_button": "Descargar CV",
         "contact_button": "Contacto"
     },
 
     "sobre-mi": {
         "title": "Sobre mí",
-        "texto_sobreMi": "Soy estudiante del pregrado de Estadística y estudiante autodidacta de Desarrollo Web enfocado en programación Frontend.<br>Aspiro conseguir empleo en el mundo del Desarrollo Web, adquirir experiencia, nuevos conocimientos y fortalecer mi vida profesional.<br><br>Soy una persona empática y entusiasta, con competencias enfocadas en el trabajo en equipo, comunicación asertiva, resolución de problemas, responsable y proactiva, me gusta aprender de los demás y superarme continuamente."
+        "texto_sobreMi": "Soy autodidacta de Desarrollo Web enfocado en programación Frontend.<br>Aspiro conseguir empleo en el mundo del Desarrollo Web, adquirir experiencia, nuevos conocimientos y fortalecer mi vida profesional.<br><br>Soy una persona empática y entusiasta, con competencias enfocadas en el trabajo en equipo, comunicación asertiva, resolución de problemas, responsable y proactivo, me gusta aprender de los demás y superarme continuamente."
     },
 
     "habilidades": {
