@@ -280,8 +280,7 @@ span+span {
     max-width: 65%;
     transition: .4s;
     animation: image 2s;
-    border-radius:50%;
-    box-shadow:#A78976 150px 0px 0px;
+   border-radius: 15%;
    
     
 }
