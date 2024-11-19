@@ -280,7 +280,7 @@ span+span {
     max-width: 65%;
     transition: .4s;
     animation: image 2s;
-   border-radius: 15%;
+   border-radius: 50%;
    
     
 }
